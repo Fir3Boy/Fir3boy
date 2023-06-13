@@ -8,9 +8,9 @@
 
 ## About me
 Hello there, I am Ahmed, born in 2002, I live in Mecca. 
-- 🔭 I’m currently a Computer Science student at university of the People.
+- 🔭 I’m currently a Computer Science student at the University of the People.
 - 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on any prject to get experince.
+- 👯 I’m looking to collaborate on any project to get experince.
 - 🤔 I’m looking for help with how to use Qiskit.
 - 💬 Ask me about any junior math problems.
 - 📫 How to reach me: DM
@@ -32,7 +32,7 @@ Hello there, I am Ahmed, born in 2002, I live in Mecca.
 
 
 ---
-> "For him who follows a path for seeking knowledge, Allah will ease for hijm thhe path to Paradise"
+> "For him who follows a path for seeking knowledge, Allah will ease for him the path to Paradise"
 
 — Prophet Muhammad, praise and peace be upon him
 
